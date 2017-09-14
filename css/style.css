@@ -7,7 +7,7 @@
   box-sizing: border-box; }
 
 body {
-  background-color: #3d3c96;
+  background-color: #FF0000;
   font-family: "Open Sans", sans-serif;
   color: #FFF;
   overflow-x: hidden; }
@@ -99,7 +99,7 @@ strong {
   z-index: 2;
   top: 0;
   width: 100%;
-  background-color: #3d3c96; }
+  background-color: #67E003; }
 
 .main-nav {
   width: 100%;
