@@ -4,3 +4,5 @@ https://github.com/bbdellacroce/prueba.git
 cd prueba    -> cambia directorio  --> git status
 
 hola mundo desde todo lodps
+
+hola tambien desde VS code :( 
