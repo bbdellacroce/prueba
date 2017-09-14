@@ -3,4 +3,4 @@ https://github.com/bbdellacroce/prueba.git
 
 cd prueba    -> cambia directorio  --> git status
 
-hola 
+hola mundo desde todo lodps
