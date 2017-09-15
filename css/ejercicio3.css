@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+}
+.contenedor  {
+    width: 1000px;
+    margin: auto;
+}
+.menu {
+    width: 200px;
+    height: 600px;
+    background-color: rgb(102, 16, 32);
+    float: left;
+}
+.cabecera {
+    background-color: violet;
+    width: 800px;
+    height: 100px;
+    float: right;
+}
+.contenido1 {
+    background-color: green;
+    width: 500px;
+    height: 300px;
+    float: left;
+}
+.menu2 {
+    background-color: black;
+    width: 300px;
+    height: 500px;
+    float: right;
+}
+.contenido2 {
+    background-color: grey;
+    width: 500px;
+    height: 200px;
+    float: left;
+}
